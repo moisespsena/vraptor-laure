@@ -1,0 +1,10 @@
+laure-annotations/target
+laure-core/target
+laure-interfaces/target
+laure-utils/target
+laure-utils/laure-utils.iml
+laure-annotations/laure-annotations.iml
+laure-core/laure-core.iml
+laure-interfaces/laure-interfaces.iml
+target
+vraptor-laure.iml
